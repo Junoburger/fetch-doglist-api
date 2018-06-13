@@ -1,0 +1,10 @@
+.DogsList{
+  list-style: none;
+  font-size: 20pt;
+  color: green;
+
+}
+.Link{
+  text-decoration: none;
+  color:green;
+}
